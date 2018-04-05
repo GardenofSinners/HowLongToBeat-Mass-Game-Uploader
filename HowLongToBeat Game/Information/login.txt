@@ -1,0 +1,1 @@
+﻿exampleusername(edit inside login.txt)|examplepassword
